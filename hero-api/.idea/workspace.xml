@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848fe238-6837-43c7-99d6-766b015b7f30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/db.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hero-view/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hero-view/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hero-mobile/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hero-mobile/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hero-mobile/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../hero-mobile/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hero-mobile/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/../hero-mobile/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hero-mobile/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hero-mobile/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hero-mobile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hero-mobile/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,8 @@
       <workItem from="1585438930772" duration="13455000" />
       <workItem from="1585454841049" duration="3332000" />
       <workItem from="1585493165066" duration="1723000" />
+      <workItem from="1585915724413" duration="1202000" />
+      <workItem from="1586132153974" duration="1793000" />
     </task>
     <servers />
   </component>
